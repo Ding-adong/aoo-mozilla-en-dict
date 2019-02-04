@@ -21847,7 +21847,7 @@ Māngere/M
 Māori/M
 M-DISC/M
 M.Sc.
-M&amp;M/M
+M&M/M
 MA
 MAG
 MALP/M
@@ -28786,9 +28786,9 @@ Rényi/M
 Réunion/M
 Rómulo/M
 Rüegg/M
-R&amp;B/M
-R&amp;D/M
-R&amp;R/M
+R&B/M
+R&D/M
+R&R/M
 R2-D2/M
 RAAF/M
 RAC
