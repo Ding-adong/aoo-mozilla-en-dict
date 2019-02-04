@@ -606,7 +606,6 @@ Alannah/M
 Alaric/M
 Alasdair/M
 Alaska/M
-Alaskan/M
 Alaskan/S
 Alastair/M
 Alaw/M
@@ -615,7 +614,6 @@ Alayah/M
 Alayna/M
 Alban/M
 Albania/M
-Albanian/M
 Albanian/MS
 Albans/M
 Albany/M
@@ -1022,7 +1020,6 @@ Amarone/M
 Amaunet/M
 Amaya/M
 Amaziah/M
-Amazon/M
 Amazon/MS
 Amazonas/M
 Amazonia/M
@@ -1049,10 +1046,8 @@ Amelias/M
 Amelie/M
 Amer/M
 Amerada/M
-America/M
 America/MS
 American Samoa/M
-American/M
 American/Qq-8MS
 Americana
 Americanese
@@ -1381,7 +1376,6 @@ Antigonus/M
 Antigua and Barbuda/M
 Antigua/M
 Antiguan
-Antiguan/M
 Antilegomena/M
 Antilles/M
 Antin/M
@@ -1465,7 +1459,6 @@ Applewhite/M
 Appling/M
 Appomattox/M
 Apr
-April/M
 April/MS
 Aprile/M
 Apton/M
@@ -1675,7 +1668,6 @@ Armani/M
 Armathwaite/M
 Armco/M
 Armenia/M
-Armenian/M
 Armenian/MS
 Armenians/M
 Armenta/M
@@ -2122,7 +2114,6 @@ Australis/M
 Australopithecus
 Austrey/M
 Austria/M
-Austrian/M
 Austrian/MS
 Austrians/M
 Austrinus/M
@@ -2253,9 +2244,7 @@ Azania/M
 Azanian
 Azaria/M
 Azerbaijan/M
-Azerbaijani/M
 Azerbaijani/S
-Azerbaijanis/M
 Azeri/M
 Azerley/M
 Azikiwe/M
@@ -2311,13 +2300,11 @@ BIC/S
 BINAC/M
 BIOS/M
 BITNET
-BMW/M
 BMW/MS
 BMX/M
 BMus
 BNFL/M
 BP
-BP/M
 BPD
 BPhil
 BR/M
@@ -2445,7 +2432,6 @@ Baha'i/S
 Baha'ism
 Bahai/S
 Bahamas/M
-Bahamian/M
 Bahamian/S
 Bahamians/M
 Baharampur/M
@@ -3308,7 +3294,6 @@ Belém/M
 Bel/M
 Belafonte/M
 Belarus/M
-Belarusian/M
 Belarusian/S
 Belarusians/M
 Belaugh/M
@@ -3327,7 +3312,6 @@ Belford/M
 Belfort/M
 Belfrey/M
 Belgaum/M
-Belgian/M
 Belgian/MS
 Belgians/M
 Belgic
@@ -3496,7 +3480,6 @@ Benteen/M
 Benthall/M
 Bentham/M
 Bentlee/M
-Bentley/M
 Bentley/MS
 Bently/M
 Benton/M
@@ -3567,7 +3550,6 @@ Berkswell/M
 Berkswich/M
 Berlín/M
 Berl/M
-Berlin/M
 Berlin/Mr
 Berlingo/M
 Berlinguer/M
@@ -3695,7 +3677,6 @@ Bettiscombe/M
 Bettman/M
 Bettws-y-Crwyn/M
 Bettws/M
-Betty/M
 Betty/MS
 Bettyhill/M
 Bettys/M
@@ -4024,7 +4005,6 @@ Blaby/M
 Blachon/M
 Black Eyed Peas/M
 Black/M
-BlackBerry/M
 BlackBerry/SGD
 Blackadder/M
 Blackawton/M
@@ -4219,7 +4199,6 @@ Bluefield/M
 Bluefields/M
 Bluemont/M
 Bluetooth/DM
-Bluetooth/M
 Bluff/M
 Bluffs/M
 Bluffton/M
@@ -4368,7 +4347,6 @@ Bolingbrook/M
 Bolinski/M
 Bolivar/M
 Bolivia/M
-Bolivian/M
 Bolivian/S
 Bolivians/M
 Bolivias/M
@@ -4571,12 +4549,10 @@ Botolphbridge/M
 Botolphs/M
 Botou/M
 Botox/D
-Botox/M
 Botriphnie/M
 Botshabelo/M
 Botswana/M
 Botswanan
-Botswanan/M
 Botswanans/M
 Botswanian
 Bott/M
@@ -5157,7 +5133,6 @@ Britenay/M
 Britford/M
 Brithdir/M
 Briticism
-British/M
 British/RY
 Britishness
 Britney/M
@@ -5541,7 +5516,6 @@ Bulbridge/M
 Bulcote/M
 Bulford/M
 Bulgaria/M
-Bulgarian/M
 Bulgarian/MS
 Bulgarians/M
 Bulkeley/M
@@ -5653,7 +5627,6 @@ Burlington/M
 Burma/M
 Burmarsh/M
 Burmese
-Burmese/M
 Burmington/M
 Burn/M
 Burnaby/M
@@ -5827,7 +5800,6 @@ Byrd/M
 Byrne/M
 Byrnes/M
 Byrness/M
-Byron/M
 Byron/WM
 Byronismyah/M
 Bystolic/M
@@ -5868,7 +5840,6 @@ CB
 CBD/M
 CBI/M
 CBS
-CBS/M
 CBT
 CCD
 CCTV
@@ -5888,7 +5859,6 @@ CET
 CFC/S
 CFO/S
 CGI
-CGI/M
 CI
 CIA/M
 CIAs/M
@@ -6051,7 +6021,6 @@ Cajon/M
 Cajun/SM
 Cakeworthy/M
 Cal
-Cal/M
 Calabar/M
 Calabasas/M
 Calais/M
@@ -6087,7 +6056,6 @@ Caleb/M
 Calebs/M
 Caledon/M
 Caledonia/M
-Caledonian/M
 Caledonian/S
 Calera/M
 Calexico/M
@@ -6142,7 +6110,6 @@ Calverley/M
 Calvert/M
 Calverton/M
 Calvin/3M
-Calvin/M
 Calvinism
 Calvinist/W
 Calzaghe/M
@@ -6155,7 +6122,6 @@ Camberley/M
 Camberwell/M
 Camblesforth/M
 Cambodia/M
-Cambodian/M
 Cambodian/S
 Cambodians/M
 Camborne/M
@@ -6181,7 +6147,6 @@ Camelot/SM
 Camembert/M
 Cameron/M
 Cameroon/M
-Cameroonian/M
 Cameroonian/S
 Cameroonians/M
 Camerton/M
@@ -6226,7 +6191,6 @@ Cana/M
 Canaan/M
 Canaanite
 Canada/M
-Canadian/M
 Canadian/MS
 Canadians/M
 Canandaigua/M
@@ -6405,7 +6369,6 @@ Carharrack/M
 Carhays/M
 Carib/S
 Caribbean
-Caribbean/M
 Cariboo/M
 Carignan/M
 Carina/M
@@ -6415,7 +6378,6 @@ Carinthia/M
 Carisbrooke/M
 Carissa/M
 Carkin/M
-Carl/M
 Carl/MG
 Carla/M
 Carlby/M
@@ -6712,7 +6674,6 @@ Catullus/M
 Catwick/M
 Catworth/M
 Catzevone/M
-Caucasian/M
 Caucasian/S
 Caucasoid
 Caucasus/M
@@ -6835,7 +6796,6 @@ Cephalopoda
 Cepheid
 Cepheus/M
 Cerberus
-Cerberus/M
 Ceredigion/M
 Ceres/M
 Ceri/M
@@ -6879,7 +6839,6 @@ Chaddesden/M
 Chaddesley/M
 Chaddleworth/M
 Chadha/M
-Chadian/M
 Chadian/S
 Chadians/M
 Chadkirk/M
@@ -7263,9 +7222,7 @@ Childrey/M
 Childs/M
 Childswickham/M
 Childwall/M
-Chile/M
 Chile/MS
-Chilean/M
 Chilean/S
 Chileans/M
 Chilfrome/M
@@ -7288,7 +7245,6 @@ Chilvers/M
 Chilworth/M
 Chimichanga/M
 Chin'toka/M
-China/M
 China/Mm
 Chinatown/M
 Chineham/M
@@ -7401,7 +7357,6 @@ Christleton/M
 Christlike
 Christly
 Christmas Island/M
-Christmas/M
 Christmas/MS
 Christmassy
 Christmastide
@@ -7550,7 +7505,6 @@ Clapton/M
 Clara/M
 Clarbeston/M
 Clarborough/M
-Clare/M
 Clare/MZ
 Claremont/M
 Claremore/M
@@ -7986,7 +7940,6 @@ Cologne/M
 Coloma/M
 Colomb/M
 Colombia/M
-Colombian/M
 Colombian/S
 Colombians/M
 Colombo/M
@@ -8103,7 +8056,6 @@ Congham/M
 Congleton/M
 Congo/M
 Congolese
-Congolese/M
 Congregation/M
 Congregational/3Y
 Congregationalism/MS
@@ -8675,7 +8627,6 @@ Crittenden/M
 Crixus/M
 Croat/S
 Croatia/M
-Croatian/M
 Croatian/S
 Croatians/M
 Croce/M
@@ -8813,7 +8764,6 @@ Ctenophora
 Ctrl
 Cu
 Cuba/M
-Cuban/M
 Cuban/S
 Cubans/M
 Cubbington/M
@@ -9018,7 +8968,6 @@ Czechoslovak
 Czechoslovakia/M
 Czechoslovakian
 Czechs
-Czechs/M
 Dégelis/M
 Dürer/M
 Dürr/M
@@ -9051,7 +9000,6 @@ DAT
 DBE
 DBMS
 DC
-DC/M
 DCB
 DCI/M
 DCM
@@ -9170,7 +9118,6 @@ Daisys/M
 Dakar/M
 Dakara/M
 Dakin/M
-Dakota/M
 Dakota/MS
 Dalai Lama/M
 Dalai/M
@@ -9278,7 +9225,6 @@ Danielson/M
 Danika/M
 Danilov/M
 Danish
-Danish/M
 Danko/M
 Dankos/M
 Danna/M
@@ -9396,7 +9342,6 @@ Dave Matthews Band/M
 Dave/M
 Daveluyville/M
 Davenham/M
-Davenport/M
 Davenport/MS
 Daventry/M
 Davey/M
@@ -10613,7 +10558,6 @@ Dusseldorf/M
 Dustin/M
 Duston/M
 Dutch/5m
-Dutch/M
 Dutchess/M
 Duthil/M
 Dutson/M
@@ -10684,7 +10628,6 @@ EFI
 EFT
 EGA/M
 EKG
-EKG/M
 EMH/M
 EMI/M
 EMP/M
@@ -10777,7 +10720,6 @@ Eastchester/M
 Eastchurch/M
 Eastcote/M
 Eastcotts/M
-Eastenders/M
 Easter/YSM
 Eastergate/M
 Easterhouse/M
@@ -10884,7 +10826,6 @@ Ecuador/M
 Ecuadoran
 Ecuadorean/S
 Ecuadorian
-Ecuadorian/M
 Ecuadorians/M
 Ed Sheeran/M
 Ed/M
@@ -10904,7 +10845,6 @@ Eddrachillis/M
 Eddy/M
 Ede/M
 Edelman/M
-Eden/M
 Eden/MW
 Edenaveys/M
 Edenbridge/M
@@ -10987,7 +10927,6 @@ Eduardo/M
 Edubase/M
 Edvin/M
 Edwalton/M
-Edward/M
 Edward/MS
 Edwardian/MS
 Edwards/M
@@ -11051,7 +10990,6 @@ Egton/M
 Egypt/M
 Egyptian/SM
 Egyptological
-Egyptologist/M
 Egyptologist/S
 Egyptology
 Ehrenpreis/M
@@ -11097,7 +11035,6 @@ Elías/M
 El
 El Salvador/M
 El Segundo/M
-El/M
 ElGamal/M
 Ela/M
 Eladio/M
@@ -11421,7 +11358,6 @@ Englehart/M
 Englewood/M
 English-speaker
 English-speaking
-English/M
 English/m5M
 Englishcombe/M
 Englishness
@@ -11650,7 +11586,6 @@ Estocolmo/M
 Eston/M
 Estonia/M
 Estonian
-Estonian/M
 Estonians/M
 Estoril/M
 Estrella/M
@@ -11674,7 +11609,6 @@ Etherley/M
 Ethernet/MS
 Etherpad/M
 Ethiopia/M
-Ethiopian/M
 Ethiopian/S
 Ethiopians/M
 Etiopien/M
@@ -11775,7 +11709,6 @@ Eurosceptic
 Eurosceptical
 Euroscepticism
 Eurostar
-Eurostar/M
 Eurostat/M
 Eurotrash
 Eurovision/M
@@ -11958,7 +11891,6 @@ Fabricant/M
 Fabus/M
 Fabyan/M
 Faccombe/M
-Facebook/M
 Facebook/rDGM
 Faceby/M
 Fach/M
@@ -12282,7 +12214,6 @@ Fernwood/M
 Ferragamo/M
 Ferrand/M
 Ferranti/M
-Ferrari/M
 Ferrari/MS
 Ferreira/M
 Ferrensby/M
@@ -12390,7 +12321,6 @@ Finlays/M
 Finlayson/M
 Finley/M
 Finmere/M
-Finn/M
 Finn/MS
 Finnegan/M
 Finneran/M
@@ -12399,7 +12329,6 @@ Finnigan/M
 Finningham/M
 Finningley/M
 Finnish
-Finnish/M
 Finns/M
 Finsbury/M
 Finsen/M
@@ -12916,7 +12845,6 @@ French Guiana/M
 French Metropolitan/M
 French Polynesia/M
 French Southern Territories/M
-French/M
 French/m5M
 Frencher/M
 Frenchification
@@ -13150,7 +13078,6 @@ GPMU
 GPO
 GPRS
 GPS
-GPS/M
 GPSS
 GPSes
 GPU/S
@@ -13198,7 +13125,6 @@ Gaddesden/M
 Gadi/M
 Gadsden/M
 Gaea/M
-Gael/M
 Gael/SWM
 Gaeldom/M
 Gaelic-speaking
@@ -13296,7 +13222,6 @@ Galway/M
 Gamage/M
 Gamay
 Gambia/M
-Gambian/M
 Gambian/S
 Gambians/M
 Gambier/M
@@ -13582,7 +13507,6 @@ Georges/M
 Georgetown/M
 Georgette/M
 Georgia/M
-Georgian/M
 Georgian/S
 Georgianna/M
 Georgians/M
@@ -13606,7 +13530,6 @@ Gerhard/M
 Gerhardt/M
 Gerhart/M
 Germain/M
-German/M
 German/MSW
 Germans/M
 Germansweek/M
@@ -14430,7 +14353,6 @@ Gregson/M
 Greig/M
 Greinton/M
 Grenada/M
-Grenadian/M
 Grenadian/S
 Grenadians/M
 Grenadines/M
@@ -14597,7 +14519,6 @@ Guarp/M
 Guatamala/M
 Guatemala City/M
 Guatemala/M
-Guatemalan/M
 Guatemalan/S
 Guatemalans/M
 Guaymas/M
@@ -14630,7 +14551,6 @@ Guilsfield/M
 Guinan/M
 Guinea-Bissau/M
 Guinea/M
-Guinean/M
 Guinean/S
 Guineans/M
 Guinevere/M
@@ -14724,7 +14644,6 @@ Guttmacher/M
 Guy/M
 Guyana/M
 Guyanese
-Guyanese/M
 Guyaneses/M
 Guyhirne/M
 Guymon/M
@@ -15225,7 +15144,6 @@ Harlesden/M
 Harleston/M
 Harlestone/M
 Harley-Davidson/M
-Harley/M
 Harley/MS
 Harling/M
 Harlingen/M
@@ -16170,7 +16088,6 @@ Hitchcock/M
 Hitchens/M
 Hitchin/M
 Hitchman/M
-Hitler/M
 Hitler/MS
 Hitlerian
 Hitlerism
@@ -16422,7 +16339,6 @@ Hoorn/M
 Hoosier/M
 Hooters/M
 Hooton/M
-Hoover/M
 Hoover/MS
 Hopatcong/M
 Hope/M
@@ -16701,7 +16617,6 @@ Hundested/M
 Hundleby/M
 Hundleton/M
 Hundon/M
-Hungarian/M
 Hungarian/S
 Hungarians/M
 Hungarton/M
@@ -16878,13 +16793,11 @@ IMO
 IOA/M
 IOPS
 IOU
-IP/M
 IP/S
 IPA
 IPR
 IPS
 IPX/M
-IQ/M
 IQ/S
 IR
 IRC/M
@@ -16905,7 +16818,6 @@ ITunes/M
 IU
 IUD/S
 IVF
-IVF/M
 Iacocca/M
 Iain/M
 Iamblichus/M
@@ -16927,7 +16839,6 @@ Ibstock/M
 Ibstone/M
 Icarian/M
 Icarus/M
-Iceland/M
 Iceland/MRW
 Icelander/M
 Icelanders/M
@@ -17091,7 +17002,6 @@ Indological
 Indologist/SM
 Indology
 Indonesia/M
-Indonesian/M
 Indonesian/S
 Indonesians/M
 Indra/M
@@ -17243,7 +17153,6 @@ Irigaray/M
 Irina/M
 Iris/M
 Irisa/M
-Irish/M
 Irish/m5
 Irkutsk/M
 Irma/M
@@ -17411,7 +17320,6 @@ Ivoirian/M
 Ivoirians/M
 Ivonbrook/M
 Ivor/M
-Ivorian/M
 Ivorian/S
 Ivorians/M
 Ivory Coast/M
@@ -17475,7 +17383,6 @@ Jacklyn/M
 Jackman/M
 Jacko/M
 Jacks/M
-Jackson/M
 Jackson/MS
 Jacksons/M
 Jacksonville/M
@@ -17548,7 +17455,6 @@ Jalen/M
 Jaliyah/M
 Jamaal/M
 Jamaica/M
-Jamaican/M
 Jamaican/S
 Jamaicans/M
 Jamal/M
@@ -17670,7 +17576,6 @@ Jayasuriya/M
 Jayawardena/M
 Jayawardenepura/M
 Jayce/M
-Jaycee/M
 Jaycee/SM
 Jaycob/M
 Jaycox/M
@@ -17838,12 +17743,10 @@ Jetsun/M
 Jett/M
 Jevington/M
 Jevon/M
-Jew/M
 Jew/MSy
 Jewel/M
 Jewess/SM
 Jewish
-Jewish/M
 Jewishness
 Jewry/M
 Jews/M
@@ -17860,7 +17763,6 @@ Jill/M
 Jillian/M
 Jillie/M
 Jilly/M
-Jim/M
 Jim/ZM
 Jimbo/M
 Jimena/M
@@ -17949,7 +17851,6 @@ Joliette/M
 Jolinar/M
 Jolitta/M
 Jolla/M
-Jon/M
 Jon/MZ
 Jonah/M
 Jonahs/M
@@ -17974,7 +17875,6 @@ Jorah/M
 Joranian/M
 Jordan/M
 Jordanhill/M
-Jordanian/M
 Jordanian/S
 Jordanians/M
 Jordans/M
@@ -18024,7 +17924,6 @@ Jovanović/M
 Jovanovich/M
 Jove/M
 Jovi/M
-Jovian/M
 Jovian/S
 Jowell/M
 Jowett/M
@@ -18034,8 +17933,7 @@ Joyner/M
 Joynson-Hicks/M
 Joziah/M
 Jr
-Jr./M
-Jr/M
+Jr.
 Juárez/M
 Juab/M
 Juan/M
@@ -18087,7 +17985,6 @@ Julissa/M
 Julius/M
 Julliard/M
 Julluh/M
-July/M
 July/MS
 Julys/M
 Juma/M
@@ -18116,7 +18013,6 @@ Junr/M
 Jupiter/M
 Jura/M
 Jurassic
-Jurassic/M
 Jurby/M
 Jurgen/M
 Juri/M
@@ -18714,7 +18610,6 @@ Kentwood/M
 Kenwood/M
 Kenwyn/M
 Kenya/M
-Kenyan/M
 Kenyan/S
 Kenyans/M
 Kenyatta/M
@@ -19461,7 +19356,6 @@ Korat/M
 Korbin/M
 Kordell/M
 Korea/M
-Korean/M
 Korean/S
 Koreans/M
 Koresh/M
@@ -19657,7 +19551,6 @@ Kuwabara-san/M
 Kuwabara/M
 Kuwait City/M
 Kuwait/M
-Kuwaiti/M
 Kuwaiti/S
 Kuzey/M
 Kuzma/M
@@ -19729,7 +19622,6 @@ L'Rell/M
 L'shan/M
 L.A./M
 LAN
-LAN/M
 LAPD/M
 LBJ
 LCD/MS
@@ -19750,7 +19642,6 @@ LOL
 LP/S
 LPG
 LSD
-LSD/M
 LTR
 LTS
 LXDE/M
@@ -20049,7 +19940,6 @@ Lao/M
 Laodicea/M
 Laois/M
 Laos/M
-Laotian/M
 Laotian/S
 Laotians/M
 Lapeer/M
@@ -20136,7 +20026,6 @@ Latinise/SGDR
 Latinism/S
 Latinist
 Latinity
-Latino/M
 Latino/S
 Latinx/S
 Latium/M
@@ -20146,7 +20035,6 @@ Latton/M
 Latuda/M
 Latvia/M
 Latvian
-Latvian/M
 Latvians/M
 Lauda/M
 Lauder/M
@@ -20287,7 +20175,6 @@ Leavenworth/M
 Leaverton/M
 Leawood/M
 Lebanese
-Lebanese/M
 Lebanon/M
 Lebberston/M
 Lebech/M
@@ -20636,14 +20523,12 @@ Liberty/M
 Libertyville/M
 Libowitz/M
 Libra/M
-Libran/M
 Libran/S
 LibreOffice/M
 Libreville/M
 Librium/M
 Liby/M
 Libya/M
-Libyan/M
 Libyan/S
 Libyans/M
 Lichfield/M
@@ -20667,7 +20552,6 @@ Liebeskind/M
 Liebfraumilch/M
 Liebmann/M
 Liebowitz/M
-Liechtenstein/M
 Liechtenstein/RM
 Liechtensteiner/M
 Liechtensteinerin/M
@@ -20871,7 +20755,6 @@ Litchfield/M
 Litchurch/M
 Lithgow/M
 Lithuania/M
-Lithuanian/M
 Lithuanian/MS
 Lithuanians/M
 Litlington/M
@@ -20915,7 +20798,6 @@ Livingstone/M
 Livingstons/M
 Livinius/M
 Livonia/M
-Liz/M
 Liz/MZ
 Liza/M
 Lizarrabengoa/M
@@ -21436,7 +21318,6 @@ Lon/M
 Lonan/M
 Londesborough/M
 Londo/M
-London/M
 London/rM
 Londonderry/M
 Londonthorpe/M
@@ -21545,7 +21426,6 @@ Lorraines/M
 Lorton/M
 Los
 Los Angeles/M
-Los/M
 Loscoe/M
 Lossiemouth/M
 Lost/M
@@ -21816,7 +21696,6 @@ Lutheranism
 Luthien/M
 Luthor/M
 LuthorCorp/M
-Luthorcorp/M
 Luthors/M
 Luton/M
 Lutsk/M
@@ -21831,7 +21710,6 @@ Luxa/M
 Luxan/M
 Luxans/M
 Luxborough/M
-Luxembourg/M
 Luxembourg/RM
 Luxembourgers/M
 Luxembourgian
@@ -21969,7 +21847,7 @@ Māngere/M
 Māori/M
 M-DISC/M
 M.Sc.
-M/M&amp/M;M/M
+M&amp;M/M
 MA
 MAG
 MALP/M
@@ -22050,7 +21928,6 @@ MacAllister/M
 MacArthur/M
 MacArthurs/M
 MacBain/M
-MacBeth/M
 MacBook/S
 MacColl/M
 MacCormack/M
@@ -22107,7 +21984,6 @@ Mace Windu/M
 Macedon/M
 Macedonia/M
 Macedonian
-Macedonian/M
 Macedonians/M
 Macefen/M
 Macellis/M
@@ -22393,7 +22269,6 @@ Malaya/M
 Malayalam
 Malayan/MS
 Malaysia/M
-Malaysian/M
 Malaysian/S
 Malaysians/M
 Malbaie/M
@@ -22468,7 +22343,6 @@ Malta/M
 Maltby/M
 Malte/M
 Maltese
-Maltese/M
 Malthaner/M
 Malthe/M
 Malthus/M
@@ -22681,7 +22555,6 @@ Marazion/M
 Marbella/M
 Marblehead/M
 Marbury/M
-Marc/M
 Marc/MZ
 Marcan
 Marceau/M
@@ -22714,7 +22587,6 @@ Marcionitism
 Marck/M
 Marcle/M
 Marco Polo/M
-Marco/M
 Marco/MS
 Marcon/M
 Marconi/M
@@ -22749,7 +22621,6 @@ Margaretting/M
 Margarita/M
 Margate/M
 Margaux
-Margaux/M
 Marge/M
 Margene/M
 Margery/M
@@ -22981,7 +22852,6 @@ Marvolo/M
 Marwan/M
 Marwood/M
 Marx/3M
-Marx/M
 Marxian
 Marxism
 Marxist
@@ -23056,7 +22926,6 @@ Massingham/M
 Massiter/M
 Master/M
 MasterCard/M
-Mastercard/M
 Masters/M
 Masterson/M
 Masterton/M
@@ -23195,10 +23064,8 @@ Mauricio/M
 Maurine/M
 Maurio/M
 Mauritania/M
-Mauritanian/M
 Mauritanian/S
 Mauritanians/M
-Mauritian/M
 Mauritian/S
 Mauritians/M
 Mauritius/M
@@ -23251,7 +23118,6 @@ Maxwelltown/M
 Maxx/M
 May/M
 Maya/M
-Mayan/M
 Mayan/S
 Mayans/M
 Mayard/M
@@ -23564,7 +23430,6 @@ Mecklenburg/M
 Mecoptera
 Mecosta/M
 Med
-Med/M
 Medavoy/M
 Medbourne/M
 Meddan/M
@@ -23817,7 +23682,6 @@ Merlin/M
 Merlins/M
 Merlo/M
 Merlot
-Merlot/M
 Merlotte/M
 Merlyn/M
 Merman/M
@@ -23983,7 +23847,6 @@ Micky/M
 Micmac/SM
 Micra/M
 Micronesia/M
-Micronesian/M
 Micronesian/S
 Micronesians/M
 Microsoft/M
@@ -24139,7 +24002,6 @@ Milston/M
 Milton-Kildary/M
 Milton-next-Gravesend/M
 Milton-under-Wychwood/M
-Milton/SM
 Milton/WM
 Miltonian
 Milverton/M
@@ -24209,7 +24071,6 @@ Minot/M
 Minotaur/M
 Minshara/M
 Minshull/M
-Minsk/M
 Minsk/MZ
 Minsky/M
 Minstead/M
@@ -24281,7 +24142,6 @@ Misson/M
 Missoula/M
 Missouri/M
 Missourian
-Missourian/M
 Missy/M
 Misterton/M
 Mistley/M
@@ -24390,7 +24250,6 @@ Mold/M
 Moldavia/M
 Moldavian
 Moldova/M
-Moldovan/M
 Moldovan/S
 Moldovans/M
 Molescroft/M
@@ -24450,7 +24309,6 @@ Mondrum/M
 Monea/M
 Monee/M
 Monegasque
-Monegasque/M
 Monet/M
 Monewden/M
 Moneydie/M
@@ -24465,7 +24323,6 @@ Mongeham/M
 Mongewell/M
 Mongol/WS
 Mongolia/M
-Mongolian/M
 Mongolian/S
 Mongolians/M
 Mongomery/M
@@ -24691,7 +24548,6 @@ Morningside/M
 Morningthorpe/M
 Mornington/M
 Moro/M
-Moroccan/M
 Moroccan/S
 Moroccans/M
 Morocco/M
@@ -24830,7 +24686,6 @@ Moyne/M
 Moyra/M
 Moyross/M
 Moz/M
-Mozambican/M
 Mozambican/S
 Mozambicans/M
 Mozambique/M
@@ -25050,7 +24905,6 @@ MySpell/M
 Mya/M
 Myah/M
 Myanmar/M
-Myanmar/M, Burma/M
 Mycenae/M
 Mycenaean
 Myddfai/M
@@ -25120,11 +24974,9 @@ NCO
 NDE/SM
 NFC
 NFL
-NFL/M
 NFS
 NGO/S
 NHL
-NHL/M
 NHS
 NICAP/M
 NID/M
@@ -25150,10 +25002,8 @@ NVMe/M
 NVRAM/S
 NW
 NY
-NY/M
 NYADA/M
 NYC
-NYC/M
 NYPD/M
 NYSE
 NZ
@@ -25226,7 +25076,6 @@ Nambue/M
 Namenda/M
 Nameoki/M
 Namibia/M
-Namibian/M
 Namibian/S
 Namibians/M
 Namier/M
@@ -25237,7 +25086,6 @@ Nana/M
 Nanaimo/M
 Nanak/M
 Nanas/M
-Nance/M
 Nance/ZM
 Nanchang/M
 Nancy/M
@@ -25272,7 +25120,6 @@ Napa/M
 Naperville/M
 Napier/M
 Naples/M
-Napoleon/M
 Napoleon/WSM
 Napoleonically
 Napoleonism
@@ -25463,7 +25310,6 @@ Neils Bohr/M
 Neilston/M
 Neisser/M
 Nelder/M
-Nell/M
 Nell/MY
 Nelle/M
 Nellie/M
@@ -25719,7 +25565,6 @@ Nibley/M
 Nic/M
 Nicaea/M
 Nicaragua/M
-Nicaraguan/M
 Nicaraguan/S
 Nicaraguans/M
 Niccolo/M
@@ -25756,7 +25601,6 @@ Nicky/M
 Nico/M
 Nicodemus/M
 Nicol/M
-Nicola/M
 Nicola/MS
 Nicolai/M
 Nicolas/M
@@ -25782,7 +25626,6 @@ Nielsen/M
 Nielson/M
 Nietzsche/M
 Nietzschean
-Nietzschean/M
 Nietzscheanism
 Nietzscheans/M
 Nietzscheism
@@ -25790,7 +25633,6 @@ Nieves/M
 Nigel/M
 Niger/M
 Nigeria/M
-Nigerian/M
 Nigerian/S
 Nigerianise/SGD
 Nigerians/M
@@ -25955,7 +25797,6 @@ Norland/M
 Norley/M
 Norma/M
 Normal/M
-Norman/M
 Norman/MS
 Normanby/M
 Normandale/M
@@ -26042,7 +25883,6 @@ Norvasc/M
 Norvir/M
 Norwalk/M
 Norway/M
-Norwegian/M
 Norwegian/S
 Norwegians/M
 Norwell/M
@@ -26514,7 +26354,6 @@ Olympiad/SM
 Olympian/S
 Olympic/S
 Olympics/M
-Olympus/M
 Olympus/WM
 Oma/M
 Omagh/M
@@ -26725,7 +26564,6 @@ Osborne/M
 Osbornes/M
 Osbournby/M
 Osbourne/M
-Oscar/M
 Oscar/MS
 Osceola/M
 Osgathorpe/M
@@ -26906,7 +26744,6 @@ Oxenham/M
 Oxenhope/M
 Oxenton/M
 Oxfam/M
-Oxford/M
 Oxford/MS
 Oxfordian/S
 Oxfords/M
@@ -26950,7 +26787,6 @@ PCI/M
 PCIe/M
 PCMCIA/M
 PCs
-PDA/M
 PDA/S
 PDF/SM
 PDP
@@ -26971,7 +26807,6 @@ PKCS
 PKI
 PLC
 PLO
-PLO/M
 PLP/M
 PM/M
 PMC
@@ -27063,7 +26898,6 @@ Painesville/M
 Painscastle/M
 Painswick/M
 Paisa/M
-Paisley/M
 Paisley/MS
 Paityn/M
 Pak'ma'ra/M
@@ -27073,7 +26907,6 @@ Pakenham/M
 Paki/SM
 Pakiri/M
 Pakistan/M
-Pakistani/M
 Pakistani/S
 Pakotai/M
 Pakuranga/M
@@ -27145,7 +26978,6 @@ Pamplona/M
 Pamplonian/M
 Panama City/M
 Panama/M
-Panamanian/M
 Panamanian/S
 Panamanians/M
 Panamas/M
@@ -27222,7 +27054,6 @@ Parada/M
 Paradise/M
 Paragould/M
 Paraguay/M
-Paraguayan/M
 Paraguayan/S
 Paraguayans/M
 Parakai/M
@@ -27248,7 +27079,6 @@ Pareto/M
 Parham/M
 Paris/M
 Parish/M
-Parisian/M
 Parisian/S
 Parisians/M
 Parisville/M
@@ -27742,7 +27572,6 @@ Perton/M
 Pertwood/M
 Peru/M
 Perugino/M
-Peruvian/M
 Peruvian/S
 Peruvians/M
 Pesach/M
@@ -27855,7 +27684,6 @@ Philadelphia/M
 Philadelphian/S
 Phileas/M
 Philemon/M
-Philip/M
 Philip/MS
 Philipose/M
 Philipp/M
@@ -27891,7 +27719,6 @@ Phoenix/M
 Phoenixville/M
 Pholidota/M
 Phoronida
-Photoshop/M
 Photoshop/SGDM
 Phrygia/M
 Phrygian/S
@@ -28017,7 +27844,6 @@ Pinocchio/M
 Pinochet/M
 Pinole/M
 Pinot
-Pinot/M
 Pinter/M
 Pinterest/M
 Pinto/M
@@ -28048,7 +27874,6 @@ Pirton/M
 Pisa/M
 Piscataquis/M
 Piscataway/M
-Piscean/M
 Piscean/S
 Pisces/M
 Piscis/M
@@ -28269,7 +28094,6 @@ Polyanovsky/M
 Polybius/M
 Polycarp/M
 Polynesia/M
-Polynesian/M
 Polynesian/S
 Polyphemus/M
 Polyzoa
@@ -28359,7 +28183,6 @@ Porizkova/M
 Porlock/M
 Poroti/M
 Porritt/M
-Porsche/M
 Porsche/MS
 Port Louis/M
 Port Moresby/M
@@ -28558,7 +28381,6 @@ President Reagan/M
 President Ronald Reagan/M
 President Trump/M
 President of the/M
-President/M
 President/MS
 Presidential
 Presley/M
@@ -28689,7 +28511,6 @@ Prunella/M
 Prusak/M
 Prusia/M
 Prussia/M
-Prussian/M
 Prussian/S
 Pryce/M
 Prynne/M
@@ -28743,7 +28564,6 @@ Pullman/M
 Pulloxhill/M
 Pullum/M
 Pulmicort/M
-Pulmicort/M?
 Pulp Fiction/M
 Pulteneytown/M
 Pultneytown/M
@@ -28850,7 +28670,6 @@ Qadir/M
 Qaeda/M
 Qani/M
 Qatar/M
-Qatari/M
 Qatari/S
 Qijun/M
 Qing/M
@@ -28861,7 +28680,6 @@ Quadring/M
 Quadros/M
 Quaffle/M
 Quainton/M
-Quaker/M
 Quaker/S
 Quakerish
 Quakerism
@@ -28886,7 +28704,6 @@ Quay/M
 Quayle/M
 Quays/M
 Queally/M
-Quebec/M
 Quebec/RM
 Quebecer/S
 Quebecois/M
@@ -28969,9 +28786,9 @@ Rényi/M
 Réunion/M
 Rómulo/M
 Rüegg/M
-R/M&amp/M;B/M
-R/M&amp/M;D/M
-R/M&amp/M;R/M
+R&amp;B/M
+R&amp;D/M
+R&amp;R/M
 R2-D2/M
 RAAF/M
 RAC
@@ -28983,7 +28800,6 @@ RDS
 README
 RFC
 RFID
-RFID/M
 RFU/M
 RGB
 RISC/M
@@ -29001,7 +28817,6 @@ RPO
 RRP
 RSA/M
 RSC
-RSC/M
 RSI
 RSM
 RSPCA
@@ -29544,7 +29359,6 @@ Repton/M
 Republic of the Congo/M
 Republic/M
 Republican
-Republican/M
 Republicans/M
 Rerenga/M
 Rerrick/M
@@ -29700,7 +29514,6 @@ Riccati
 Riccatti
 Rich/M
 Richard Gere/M
-Richard/M
 Richard/MS
 Richardo/M
 Richards/M
@@ -30060,7 +29873,6 @@ Rolf/M
 Rolfe/M
 Rolla/M
 Rolland/M
-Rollerblade/M
 Rollerblade/S
 Rollesby/M
 Rolleston/M
@@ -30085,7 +29897,6 @@ Romanby/M
 Romanesque
 Romani/M
 Romania/M
-Romanian/M
 Romanian/MS
 Romanians/M
 Romanic
@@ -30099,7 +29910,6 @@ Romany/M3
 Romberg/M
 Rome/M
 Romei/M
-Romeo/M
 Romeo/MS
 Romeoville/M
 Romer/M
@@ -30120,7 +29930,6 @@ Romulan/M
 Romulans/M
 Romulus/M
 Romy/M
-Ron/M
 Ron/MZ
 Rona/M
 Ronald/M
@@ -30385,7 +30194,6 @@ Ruatoria/M
 Ruawai/M
 Rube/M
 Rubell/M
-Ruben/M
 Ruben/MS
 Ruberslaw/M
 Rubeus/M
@@ -30546,11 +30354,8 @@ Rux/M
 Ruyton-XI-Towns/M
 Ruyton/M
 Rwanda/M
-Rwandan/M
 Rwandan/S
 Rwandese
-Rwandese/M
-Ry'ac/M
 Rya'c/M
 Ryan/M
 Ryanair/M
@@ -30600,7 +30405,6 @@ SAE
 SAMCRO/M
 SARS/M
 SAS
-SAS/M
 SASE
 SATA/M
 SATs/M
@@ -30626,7 +30430,6 @@ SGC/M
 SHA
 SIDS
 SIGGRAPH/M
-SIM/M
 SIM/S
 SIMD
 SIMULA/M
@@ -30639,7 +30442,6 @@ SNP/M
 SNR
 SOA/M
 SOE
-SOS/M
 SOS/S
 SPA/M
 SPARC/M
@@ -30671,7 +30473,6 @@ STOL
 STRESS
 SUSE/M
 SUV
-SUV/M
 SVG
 SVGA
 SVN
@@ -30740,7 +30541,6 @@ Saginaw/M
 Sagitarum/M
 Sagitta/M
 Sagittarian
-Sagittarian/M
 Sagittarius/M
 Sagittaron/M
 Sagittarons/M
@@ -30916,7 +30716,6 @@ Salvin/M
 Salvington/M
 Salwarpe/M
 Salzburg/M
-Sam/M
 Sam/ZM
 Samadhi/M
 Samael/M
@@ -31212,7 +31011,6 @@ Saxhams/M
 Saxilby/M
 Saxlingham/M
 Saxmundham/M
-Saxon/M
 Saxon/MS
 Saxondale/M
 Saxony/M
@@ -31248,7 +31046,6 @@ Scammonden/M
 Scampston/M
 Scampton/M
 Scandinavia/M
-Scandinavian/M
 Scandinavian/S
 Scangarelo/M
 Scannell/M
@@ -31348,7 +31145,7 @@ Schratt/M
 Schreck/M
 Schroders/M
 Schroeder/M
-Schroedinger/M
+Schrodinger/M
 Schubert/M
 Schue/M
 Schuessler/M
@@ -31425,7 +31222,6 @@ Scott/M
 Scotter/M
 Scottie/SM
 Scottish
-Scottish/M
 Scotton/M
 Scottow/M
 Scotts/M
@@ -32695,7 +32491,6 @@ Sollers/M
 Sollershope/M
 Solney/M
 Solomon Islands/M
-Solomon/M
 Solomon/MW
 Solon/M
 Solonius/M
@@ -32709,7 +32504,6 @@ Solway/M
 Solzhenitsyn/M
 Somali/SM
 Somalia/M
-Somalian/M
 Somalian/S
 Somalians/M
 Somborne/M
@@ -33279,7 +33073,6 @@ Stephano/M
 Stephans/M
 Stephen King/M
 Stephen-in-Brannel/M
-Stephen/M
 Stephen/MS
 Stephendale/M
 Stephenie/M
@@ -33308,7 +33101,6 @@ Steubenville/M
 Steve Jobs/M
 Steve-O/M
 Steve/M
-Steven/M
 Steven/MS
 Stevenage/M
 Stevens/M
@@ -33610,7 +33402,6 @@ Strutt/M
 Struy/M
 Stryder/M
 Stryker/M
-Stuart/M
 Stuart/MS
 Stuartfield/M
 Stuarts/M
@@ -33686,7 +33477,6 @@ Suez/M
 Suffern/M
 Suffield-cum-Everley/M
 Suffield/M
-Suffolk/M
 Suffolk/MS
 Sufi/M
 Sufism/M
@@ -33744,7 +33534,6 @@ Sundance/M
 Sundanese/M
 Sundaram/M
 Sundari/M
-Sunday/M
 Sunday/MS
 Sundays/M
 Sundberg/M
@@ -33852,7 +33641,6 @@ Swabian
 Swaby/M
 Swaffham/M
 Swafield/M
-Swahili/M
 Swahili/MS
 Swain/M
 Swainby/M
@@ -33908,7 +33696,6 @@ Swede/M
 Sweden/M
 Swedenborg/M
 Swedish
-Swedish/M
 Sweek/M
 Sween/M
 Sweeney/M
@@ -34104,7 +33891,6 @@ Tadman/M
 Tadmarton/M
 Taf/M
 Taff/MZ
-Taffy/M
 Taffy/MS
 Tafiq/M
 Taft/M
@@ -34932,7 +34718,6 @@ Tiberianus/M
 Tiberias/M
 Tiberius/M
 Tibet/M
-Tibetan/M
 Tibetan/S
 Tibideaux/M
 Tibni/M
@@ -35010,7 +34795,6 @@ Tilsworth/M
 Tilton/M
 Tilty/M
 Timár/M
-Tim/M
 Tim/ZSM
 Timaeus/M
 Timaru/M
@@ -35226,7 +35010,6 @@ Tomlin/M
 Tomlinson/M
 Tommen/M
 Tommie/M
-Tommy/M
 Tommy/MS
 Tomoko/M
 Tompkins/M
@@ -35928,7 +35711,6 @@ U2/M
 UAC
 UAR
 UART
-UAV/M
 UAV/S
 UAW
 UB40/S
@@ -35961,11 +35743,9 @@ USA/M
 USAF/M
 USART
 USB
-USB/M
 USC/M
 USCG
 USD
-USD/M
 USDA
 USG/M
 USGA/M
@@ -35976,7 +35756,6 @@ USO
 USP
 USPS
 USS
-USS/M
 USSR/M
 UT/M
 UTC
@@ -36234,7 +36013,6 @@ VAXes
 VCD/SM
 VCR/S
 VD
-VD/M
 VDT
 VDU
 VF
@@ -36526,11 +36304,9 @@ Vettori/M
 Vettulenus/M
 Vetus
 Vevo/M
-ViXen/M
 Viagra/M
 Vian/M
 Viana/M
-Vic/M
 Vic/MZ
 Vice President/M
 Vice/M
@@ -36773,10 +36549,8 @@ WTF
 WTO
 WV
 WWI
-WWI/M
 WWII
 WWW
-WWW/M
 WY
 WYSIWYG
 Waabri/M
@@ -36985,7 +36759,6 @@ Walshingham/M
 Walsingham/M
 Walsoken/M
 Walston/M
-Walt/M
 Walt/MR
 Walter/M
 Walternate/M
@@ -37303,7 +37076,6 @@ Wedgewood/M
 Wedgwood/M
 Wedmore/M
 Wednesbury/M
-Wednesday/M
 Wednesday/MS
 Wednesfield/M
 Wednsebury/M
@@ -37804,8 +37576,6 @@ Whyle/M
 Whyte/M
 Whyteleafe/M
 Wi-Fi
-Wi-Fi/M
-WiFi/M
 Wiarda/M
 Wibberley/M
 Wibsey/M
@@ -37883,7 +37653,6 @@ Wigtoft/M
 Wigton/M
 Wigtown/M
 Wigtownshire/M
-Wii/M
 Wii/S
 WikiProject/SM
 Wikibooks
@@ -39143,7 +38912,6 @@ Zimri/M
 Zinfandel/SM
 Zinn/M
 Zion/3M
-Zion/M
 Zionism
 Zionist
 Zionsville/M
